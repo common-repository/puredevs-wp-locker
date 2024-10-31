@@ -1,0 +1,102 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PureDevs WP Locker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-16 06:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: puredevs-wp-locker"
+
+#. $id - String for use in the 'id' attribute of tags.
+#: admin/class-puredevs-wp-locker-admin.php:207
+msgid "Button Label"
+msgstr ""
+
+#: admin/class-puredevs-wp-locker-admin.php:200
+msgid "Enter a heading for password form template."
+msgstr ""
+
+#: admin/class-puredevs-wp-locker-admin.php:187
+msgid ""
+"Enter a password for your website. Only visitors who know this password will "
+"be able to access your site."
+msgstr ""
+
+#: includes/templates/password-form-template.php:48
+msgid "Enter Password"
+msgstr ""
+
+#: admin/class-puredevs-wp-locker-admin.php:213
+msgid "Enter submit button label."
+msgstr ""
+
+#: includes/templates/password-form-template.php:47
+msgid "Enter Your Password and Continue"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: admin/class-puredevs-wp-locker-admin.php:194
+msgid "Form Heading"
+msgstr ""
+
+#: admin/class-puredevs-wp-locker-admin.php:141
+msgid "General"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://puredevs.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/puredevs-wp-locker"
+msgstr ""
+
+#: includes/templates/password-form-template.php:43
+msgid "Incorrect password. Please try again"
+msgstr ""
+
+#. Author of the plugin
+msgid "PureDevs"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-puredevs-wp-locker-admin.php:123
+msgid "PureDevs WP Locker"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: admin/class-puredevs-wp-locker-admin.php:181
+msgid "Set Password"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: admin/class-puredevs-wp-locker-admin.php:173
+msgid "Settings"
+msgstr ""
+
+#: includes/templates/password-form-template.php:44
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Use PureDevs WP locker To safeguard your entire WordPress site, by using a "
+"single password."
+msgstr ""
+
+#: admin/class-puredevs-wp-locker-admin.php:161
+msgid "WP Locker general settings section"
+msgstr ""
+
+#: admin/class-puredevs-wp-locker-admin.php:123
+msgid "WP Locker Settings"
+msgstr ""
